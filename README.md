@@ -1,6 +1,5 @@
 # go-client-confluent-cloud
 
-
 ```golang
 package main
 
